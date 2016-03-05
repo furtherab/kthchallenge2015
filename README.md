@@ -1,4 +1,4 @@
-# Solutions to KTH Challenge 2015
+# Solutions to [KTH Challenge 2015](http://challenge.csc.kth.se/) in Go
 
 * a1paper
 * absurdistan3
